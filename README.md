@@ -6,7 +6,7 @@
 
 I am a Computer Science student at the University of Havana with a strong background in software development and a passion for solving complex problems. My expertise spans various programming languages, frameworks, and tools, enabling me to deliver robust and efficient solutions. I thrive in collaborative environments and continuously seek to expand my knowledge and skills.
 
-## 📄 [Curriculum Vitae](https://github.com/chriss8g/Curriculum)
+## 📄 [Curriculum Vitae](https://github.com/chriss8g/Curriculum/blob/main/english.pdf)
 
 ## 🛠 Skills
 
