@@ -1,6 +1,6 @@
 # Christopher Guerra Herrero
 
-**📍 Melena del Sur, Mayabeque | 🌐 [GitHub](https://github.com/chriss8g) | 📧 [Email](mailto:chriss.8.g@gmail.com) | 📞 +53 55425963**
+**📍 Havana, Cuba | 🌐 [GitHub](https://github.com/chriss8g) | 📧 [Email](mailto:chriss.8.g@gmail.com) | 📞 +53 55425963**
 
 ## 👨‍💻 About Me
 
@@ -40,17 +40,17 @@ I am a Computer Science student at the University of Havana with a strong backgr
 ### [Compiler](https://github.com/chriss8g/Compiler)
 - **Description:** A compiler from Hulk to C.
 
-### [Juegos-Caribe](https://github.com/chriss8g/Juegos-Caribe)
-- **Description:** Website for the Caribbean Games of the University of Havana.
-
-### [Simulador-Biblioteca](https://github.com/chriss8g/Simulador-Biblioteca)
-- **Description:** Library simulation project.
-
 ### [Microprocesador-S-Mips](https://github.com/chriss8g/Microprocesador-S-Mips)
 - **Description:** Computer Architecture project.
 
 ### [Network-Project](https://github.com/chriss8g/computer-networks-2024)
 - **Description:** Implementation of the HTTP protocol for a Computer Networks course project.
+
+### [Juegos-Caribe](https://github.com/chriss8g/Juegos-Caribe)
+- **Description:** Website for the Caribbean Games of the University of Havana.
+
+### [Simulador-Biblioteca](https://github.com/chriss8g/Simulador-Biblioteca)
+- **Description:** Library simulation project. Discrete events
 
 ### [Moogle](https://github.com/chriss8g/Moogle)
 - **Description:** A document retrieval system similar to search engines.
