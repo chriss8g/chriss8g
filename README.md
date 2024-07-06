@@ -38,7 +38,7 @@ I am a Computer Science student at the University of Havana with a strong backgr
 ## 📂 Notable Projects
 
 ### [Compiler](https://github.com/chriss8g/Compiler)
-- **Description:** A compiler from Hulk to MIPS.
+- **Description:** A compiler from Hulk to C.
 
 ### [Juegos-Caribe](https://github.com/chriss8g/Juegos-Caribe)
 - **Description:** Website for the Caribbean Games of the University of Havana.
